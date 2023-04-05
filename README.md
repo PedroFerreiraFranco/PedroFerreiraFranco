@@ -1,6 +1,6 @@
 ### 👨‍💻 Aluno 3o período do IFSULDEMINAS - Campus Machado
-- 🌱 I’m currently learning everything
-- 🥅 2023 Goals: Improve my english
+- I’m currently learning everything
+
 <div align="center">
   <a href="https://github.com/PedroFerreiraFranco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroFerreiraFranco&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
