@@ -1,4 +1,4 @@
-### 👨‍💻 Aluno 3o período do IFSULDEMINAS - Campus Machado
+### 👨‍💻 Hi, I'm Pedro
 - I’m currently learning everything
 
 <div align="center">
