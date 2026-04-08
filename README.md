@@ -1,6 +1,6 @@
 # 👨‍💻 Hi, I'm Pedro Ferreira Franco
 
-### 🎓 Developer | Professor | MSc Student in Informatics Engineering @ IPB 🇵🇹
+### 🎓 Developer | Reserchear | MSc Student in Informatics Engineering @ IPB 🇵🇹
 
 I am a software developer and educator currently based in **Bragança, Portugal**. I am pursuing a Master's degree at the **Polytechnic Institute of Bragança (IPB)**, where my research focuses on **Artificial Intelligence and Computer Vision** for industrial robotics.
 
